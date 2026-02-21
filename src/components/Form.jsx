@@ -3,7 +3,7 @@
 export default function Form() {
 return (
     <div className="py-13">
-        <div className="md:w-122 mx-auto text-center">
+        <div className="md:w-122 mx-auto text-center px-2">
             <h1 className="text-pink-950 text-2xl md:text-4xl font-bold">Hurry up! Subscribe our newsletter and get 25% Off</h1>
             <p className="text-gray-700 py-6">Limited time offer for this month. No credit card required</p>
         </div>

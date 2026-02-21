@@ -4,7 +4,7 @@ import { MdKeyboardArrowRight } from "react-icons/md";
 export default function Home() {
 return (
     <div className="container pt-27 flex flex-col-reverse md:flex-row gap-4 md:gap-0 text-center md:text-start items-center justify-between">
-        <div className="w-88">
+        <div className="md:w-88 ">
             <h1 className="text-pink-950 text-4xl font-bold">Good food choices are good investments.</h1>
             <p className="text-gray-600 py-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et purus a odio finibus bibendum amet leo.</p>
             <div className="flex gap-2">

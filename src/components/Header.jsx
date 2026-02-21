@@ -9,7 +9,7 @@ export default function Header() {
 return (
     <div className=" fixed w-full top-0 left-0 right-0 bg-white  shadow-2xl shadow-gray-100 py-4">
         <div className="container flex items-center justify-between">
-            <div className="flex items-center justify-between">
+            <div className="flex items-center justify-between w-full md:w-[50%]">
                 <img className="w-22 md:w-33" src="./images/logo.png" alt="" />
                 <BiMenuAltLeft className="flex md:hidden cursor-pointer" size={22} onClick={()=> setShow(!show)}/>
             </div>

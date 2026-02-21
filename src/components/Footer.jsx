@@ -25,7 +25,7 @@ return (
             <FaInstagram size={22}/>
         </div>
         <div>
-            <p className="text-white text-[12px] px-2 md:px-0 ">© 2021. Foodera. All rights reserved Made by <strong>Hala Mohammed</strong></p>
+            <p className="text-white text-[12px] px-2 md:px-0 ">© 2026. Foodera. All rights reserved Made by || <strong>Hala Mohammed</strong></p>
         </div>
     </div>
 )
